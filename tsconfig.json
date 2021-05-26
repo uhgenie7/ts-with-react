@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        // false면 타입스크립트 하는 의미가 없다
+            "lib": [ //라이브러리
+                "es5", 
+                "es2015",
+                "es2016",
+                "es2017",
+                "es2020",
+                "dom"
+        ],
+                "jsx": "react"
+    }
+}
